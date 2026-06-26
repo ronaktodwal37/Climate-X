@@ -192,14 +192,11 @@ BHARAT-CLIMATEX/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bharat-climatex.git
+https://github.com/Priyanshi246/BharatClimateX
 ```
 
 ### 2️⃣ Navigate to the Project
 
-```bash
-cd bharat-climatex
-```
 
 ### 3️⃣ Install Dependencies
 
@@ -216,7 +213,7 @@ npm run dev
 The application will run at:
 
 ```text
-http://localhost:5173
+https://bharat-climatex-ai-c-idt6.bolt.host
 ```
 
 ---
