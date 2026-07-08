@@ -186,36 +186,6 @@ BHARAT-CLIMATEX/
 ```
 
 ---
-
-## ⚙ Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-https://github.com/Priyanshi246/BharatClimateX
-```
-
-### 2️⃣ Navigate to the Project
-
-
-### 3️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-### 4️⃣ Start Development Server
-
-```bash
-npm run dev
-```
-
-The application will run at:
-
-```text
-https://bharat-climatex-ai-c-idt6.bolt.host
-```
-
 ---
 
 ## 🌟 Future Roadmap
@@ -261,23 +231,11 @@ Our vision is to empower governments, researchers, disaster management authoriti
 
 ## 👥 Team
 
-**Team Name:** BrainBytes
+**Team Name:** BharatEye
 
 **Project:** BHARAT CLIMATEX
 
 **Hackathon:** Bharatiya Antariksh Hackathon 2026 (ISRO)
-
----
-
-## 📜 License
-
-This project is developed for educational, research, and hackathon purposes.
-
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 ---
 
