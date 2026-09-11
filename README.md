@@ -16,7 +16,7 @@ Built for <b>Bharatiya Antariksh Hackathon 2026 (ISRO)</b>
 
 **BHARAT CLIMATEX** is an AI-powered **Digital Twin of India's Climate** designed to transform fragmented climate datasets into an intelligent, interactive decision-support platform.
 
-By integrating **IMD meteorological datasets**, **ISRO satellite observations**, and **Artificial Intelligence**, the platform enables users to visualize current climate conditions, predict future weather patterns, simulate climate scenarios, and assess environmental risks.
+
 
 The project aims to support policymakers, researchers, disaster management agencies, urban planners, and climate scientists in making informed, data-driven decisions for a climate-resilient Bharat.
 
