@@ -24,7 +24,7 @@ function App() {
           {/* <Route path="/risk" element={<ClimateRiskPage />} /> */}
           {/* <Route path="/advisor" element={<AIAdvisorPage />} /> */}
           {/* <Route path="/data" element={<DataSourcesPage />} /> */}
-          <Route path="/contact" element={<ContactPage />} />
+          {/* <Route path="/contact" element={<ContactPage />} /> */}
         </Route>
       </Routes>
     </BrowserRouter>
