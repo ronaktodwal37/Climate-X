@@ -9,7 +9,7 @@ import { Layout } from '@/components/layout/Layout';
 // import { AIAdvisorPage } from '@/pages/AIAdvisorPage';
 // import { DataSourcesPage } from '@/pages/DataSourcesPage';
 // import { ContactPage } from '@/pages/ContactPage';
-import './index.css';
+// import './index.css';
 
 function App() {
   return (
