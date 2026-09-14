@@ -22,7 +22,7 @@ function App() {
           {/* <Route path="/digital-twin" element={<DigitalTwinPage />} /> */}
           {/* <Route path="/simulator" element={<ScenarioSimulatorPage />} /> */}
           {/* <Route path="/risk" element={<ClimateRiskPage />} /> */}
-          {/* <Route path="/advisor" element={<AIAdvisorPage />} /> */}
+          <Route path="/advisor" element={<AIAdvisorPage />} />
           <Route path="/data" element={<DataSourcesPage />} />
           <Route path="/contact" element={<ContactPage />} />
         </Route>
