@@ -17,7 +17,7 @@ function App() {
       <Routes>
         {/* <Route element={<Layout />}> */}
           {/* <Route path="/" element={<HomePage />} /> */}
-          {/* <Route path="/about" element={<AboutPage />} /> */}
+          <Route path="/about" element={<AboutPage />} />
           <Route path="/dashboard" element={<DashboardPage />} />
           <Route path="/digital-twin" element={<DigitalTwinPage />} />
           <Route path="/simulator" element={<ScenarioSimulatorPage />} />
