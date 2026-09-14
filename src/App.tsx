@@ -19,7 +19,7 @@ function App() {
           {/* <Route path="/" element={<HomePage />} /> */}
           {/* <Route path="/about" element={<AboutPage />} /> */}
           {/* <Route path="/dashboard" element={<DashboardPage />} /> */}
-          <Route path="/digital-twin" element={<DigitalTwinPage />} />
+          {/* <Route path="/digital-twin" element={<DigitalTwinPage />} /> */}
           <Route path="/simulator" element={<ScenarioSimulatorPage />} />
           <Route path="/risk" element={<ClimateRiskPage />} />
           <Route path="/advisor" element={<AIAdvisorPage />} />
