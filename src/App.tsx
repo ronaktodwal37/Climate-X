@@ -16,7 +16,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         {/* <Route element={<Layout />}> */}
-          {/* <Route path="/" element={<HomePage />} /> */}
+          <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/dashboard" element={<DashboardPage />} />
           <Route path="/digital-twin" element={<DigitalTwinPage />} />
