@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Layout } from '@/components/layout/Layout';
-import { HomePage } from '@/pages/HomePage';
-import { AboutPage } from '@/pages/AboutPage';
+// import { HomePage } from '@/pages/HomePage';
+// import { AboutPage } from '@/pages/AboutPage';
 import { DashboardPage } from '@/pages/DashboardPage';
 import { DigitalTwinPage } from '@/pages/DigitalTwinPage';
 import { ScenarioSimulatorPage } from '@/pages/ScenarioSimulatorPage';
