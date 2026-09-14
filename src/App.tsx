@@ -7,7 +7,7 @@ import { Layout } from '@/components/layout/Layout';
 // import { ScenarioSimulatorPage } from '@/pages/ScenarioSimulatorPage';
 // import { ClimateRiskPage } from '@/pages/ClimateRiskPage';
 // import { AIAdvisorPage } from '@/pages/AIAdvisorPage';
-// import { DataSourcesPage } from '@/pages/DataSourcesPage';
+import { DataSourcesPage } from '@/pages/DataSourcesPage';
 import { ContactPage } from '@/pages/ContactPage';
 import './index.css';
 
