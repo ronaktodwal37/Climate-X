@@ -4,7 +4,7 @@ import { Layout } from '@/components/layout/Layout';
 // import { AboutPage } from '@/pages/AboutPage';
 // import { DashboardPage } from '@/pages/DashboardPage';
 // import { DigitalTwinPage } from '@/pages/DigitalTwinPage';
-// import { ScenarioSimulatorPage } from '@/pages/ScenarioSimulatorPage';
+import { ScenarioSimulatorPage } from '@/pages/ScenarioSimulatorPage';
 import { ClimateRiskPage } from '@/pages/ClimateRiskPage';
 import { AIAdvisorPage } from '@/pages/AIAdvisorPage';
 import { DataSourcesPage } from '@/pages/DataSourcesPage';
